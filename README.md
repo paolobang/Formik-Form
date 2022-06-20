@@ -29,18 +29,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h1 align="center">Pacmen Excercise  </h1>
+<h1 align="center">Formik Form</h1>
 
   <p align="center">
     <br />
-    <a href="https://github.com/paolobang/PacMen-Exercise" ><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/paolobang/formik-form" ><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://paolobang.github.io/PacMen-Exercise/" target="_blank">View Demo</a>
+    <a href="https://paolobang.github.io/formik-form/" target="_blank">View Demo</a>
     ·
-    <a href="https://github.com/paolobang/PacMen-Exercise/issues">Report Bug</a>
+    <a href="https://github.com/paolobang/formik-form/issues">Report Bug</a>
     ·
-    <a href="https://github.com/paolobang/PacMen-Exercise/issues">Request Feature</a>
+    <a href="https://github.com/paolobang/formik-form/issues">Request Feature</a>
   </p>
 </div>
 
@@ -77,7 +77,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/paolobang/PacMen-Exercise
+   git clone https://github.com/paolobang/formik-form
    ```
 2. Install NPM packages
    ```sh
@@ -105,7 +105,7 @@ This is only for academic use in order to understand javascript logic for captur
 - [x] Improve css style
 - [ ] Control pacman with arrows keyboard
 
-See the [open issues](https://github.com/paolobang/PacMen-Exercise/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/paolobang/formik-form/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -143,23 +143,23 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Rudy Huaman - [@pesorudy](https://twitter.com/pesorudy) - pesorudy@gmail.com
 
-Project Link: [https://github.com/paolobang/PacMen-Exercise](https://github.com/paolobang/PacMen-Exercise)
+Project Link: [https://github.com/paolobang/formik-form](https://github.com/paolobang/formik-form)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/paolobang/PacMen-Exercise.svg?style=for-the-badge
-[contributors-url]: https://github.com/paolobang/PacMen-Exercise/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/paolobang/PacMen-Exercise.svg?style=for-the-badge
-[forks-url]: https://github.com/paolobang/PacMen-Exercise/network/members
-[stars-shield]: https://img.shields.io/github/stars/paolobang/PacMen-Exercise.svg?style=for-the-badge
-[stars-url]: https://github.com/paolobang/PacMen-Exercise/stargazers
-[issues-shield]: https://img.shields.io/github/issues/paolobang/PacMen-Exercise.svg?style=for-the-badge
-[issues-url]: https://github.com/paolobang/PacMen-Exercise/issues
-[license-shield]: https://img.shields.io/github/license/paolobang/PacMen-Exercise.svg?style=for-the-badge
-[license-url]: https://github.com/paolobang/PacMen-Exercise/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/paolobang/formik-form.svg?style=for-the-badge
+[contributors-url]: https://github.com/paolobang/formik-form/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/paolobang/formik-form.svg?style=for-the-badge
+[forks-url]: https://github.com/paolobang/formik-form/network/members
+[stars-shield]: https://img.shields.io/github/stars/paolobang/formik-form.svg?style=for-the-badge
+[stars-url]: https://github.com/paolobang/formik-form/stargazers
+[issues-shield]: https://img.shields.io/github/issues/paolobang/formik-form.svg?style=for-the-badge
+[issues-url]: https://github.com/paolobang/formik-form/issues
+[license-shield]: https://img.shields.io/github/license/paolobang/formik-form.svg?style=for-the-badge
+[license-url]: https://github.com/paolobang/formik-form/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rudyhuaman/
 [product-screenshot]: /assets/screen.gif
